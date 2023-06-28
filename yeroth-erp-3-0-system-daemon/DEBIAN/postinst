@@ -1,0 +1,15 @@
+#!/bin/bash
+
+ln -s /lib/systemd/system/yeroth-erp-3-0-system-daemon.service /etc/systemd/system/yeroth-erp-3-0-system-daemon.service
+
+systemctl daemon-reload &
+
+systemctl enable yeroth-erp-3-0-system-daemon.service &
+
+systemctl start yeroth-erp-3-0-system-daemon.service &
+
+chmod +x /etc/init.d/yeroth-erp-3-0-system-daemon.sh 
+
+update-rc.d yeroth-erp-3-0-system-daemon.sh defaults
+
+/etc/init.d/yeroth-erp-3-0-system-daemon.sh start & 

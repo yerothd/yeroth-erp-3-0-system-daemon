@@ -1,0 +1,3 @@
+#!/bin/bash
+rm -f /etc/systemd/system/yeroth-erp-3-0-system-daemon.*
+rm -f /lib/systemd/system/yeroth-erp-3-0-system-daemon.*
