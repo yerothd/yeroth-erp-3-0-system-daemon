@@ -72,6 +72,8 @@ public:
 
 	static const QString DBUS_TIME_FORMAT_WITH_MILLISECONDS;
 
+	static const QString YEROTH_ERP_PGI_SYSTEM_DAEMOM_dbus_verifier_tester_ID;
+
 private:
 
 	com::yeroth::rd::IYRruntimeverification *a_YR_DB_RUNTIME_VERIF_instance;
