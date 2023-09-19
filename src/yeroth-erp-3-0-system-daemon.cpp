@@ -1,7 +1,7 @@
 /*
  * yeroth-erp-3-0-system-daemon.cpp
  *
- *      Author: Dr.-Ing. (ABD) Xavier Noumbissi Noundou
+ *      Author: PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou
  */
 
 
@@ -100,8 +100,8 @@ int main(int argc, char *argv[])
         QString errMsg
 			("La variable d'environement YEROTH_ERP_3_0_PROPERTIES_CONFIGURATION_FOLDER n'a pas de valeur ! \n\n");
 
-        errMsg.append("Contacter Dr.-Ing. (ABD) Xavier Noumbissi Noundou\n"
-        			  "\t(yeroth.rd.3@gmail.com)\n\n"
+        errMsg.append("Contacter PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou\n"
+        			  "\t(yeroth.d@gmail.com)\n\n"
         			  "Cliquer sur 'Cancel' pour terminer yeroth-erp-3-0-system-daemon-3.0");
 
         QDEBUG_STRING_OUTPUT_2("yeroth-erp-3-0-system-daemon", errMsg);
@@ -115,8 +115,8 @@ int main(int argc, char *argv[])
         QString errMsg
         	("La variable d'environement YEROTH_ERP_3_0_SYSTEM_DAEMON_HOME_FOLDER n'a pas de valeur ! \n\n");
 
-        errMsg.append("Contacter Dr.-Ing. (ABD) Xavier Noumbissi Noundou\n"
-        			  "\t(yeroth.rd.3@gmail.com)\n\n"
+        errMsg.append("Contacter PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou\n"
+        			  "\t(yeroth.d@gmail.com)\n\n"
         			  "Cliquer sur 'Cancel' pour terminer yeroth-erp-3-0-system-daemon-3.0");
 
         QDEBUG_STRING_OUTPUT_2("yeroth-erp-3-0-system-daemon", errMsg);
@@ -182,7 +182,7 @@ int main(int argc, char *argv[])
                        "ne peut pas se connecter");
 
         errMsg.append(QString(" à un serveur MYSQL externe (%1) !\n\n"
-                              "Contacter Dr.-Ing. (ABD) Xavier Noumbissi Noundou\n"
+                              "Contacter PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou\n"
                               "\t(yeroth.d@gmail.com)\n\n"
                               "Cliquer sur 'Cancel' pour terminer YEROTH-PGI-3.0").
                       arg(database.db_ip_address()));
@@ -202,7 +202,7 @@ int main(int argc, char *argv[])
 
         errMsg.append(QObject::trUtf8("Serveur de base de données: %1.\n\n"
         							  "Dernière erreur (%2).\n\n"
-                         	 	 	  "Contacter Dr.-Ing. (ABD) Xavier Noumbissi Noundou\n"
+                         	 	 	  "Contacter PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou\n"
                          	 	 	  "\t(yeroth.d@gmail.com)\n\n"
                          	 	 	  "Cliquer sur 'Cancel' pour terminer YEROTH-PGI-3.0")
                       	  	  .arg(database.db_ip_address(),

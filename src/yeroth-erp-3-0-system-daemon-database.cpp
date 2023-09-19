@@ -1,7 +1,7 @@
 /*
  * yeroth-erp-3-0-system-daemon-database.cpp
  *
- *      Author: Dr.-Ing. (ABD) Xavier Noumbissi Noundou
+ *      Author: PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou
  */
 
 #include "yeroth-erp-3-0-system-daemon-database.hpp"

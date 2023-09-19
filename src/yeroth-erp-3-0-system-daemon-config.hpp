@@ -1,7 +1,7 @@
 /*
  * yeroth-erp-3-0-system-daemon-config.hpp
  *
- *      Author: Dr.-Ing. (ABD) Xavier Noumbissi Noundou
+ *      Author: PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou
  */
 
 #ifndef SRC_YEROTH_ALERT_CONFIG_HPP_
@@ -52,7 +52,7 @@ public:
             errMsg.append(" ne peut pas ouvrir pour lecture le fichier ")
             	  .append(initCfg)
 				  .append(". ) !\n\n"
-						  "Contacter Dr.-Ing. (ABD) Xavier Noumbissi Noundou\n"
+						  "Contacter PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou\n"
 						  "\t(YEROTHERP30@GMAIL.COM)\n\n"
 						  "Cliquer sur 'Cancel' pour terminer yeren");
 

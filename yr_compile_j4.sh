@@ -1,5 +1,5 @@
 #!/bin/bash
-#AUTEUR: Dr.-Ing. (ABD) Xavier Noumbissi Noundou
+#AUTEUR: PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou
 #EMAIL: yeroth.d@gmail.com
 
 YR_ERRORS_LOG_FILE="yr_errors.log"

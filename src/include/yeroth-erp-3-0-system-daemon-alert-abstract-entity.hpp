@@ -1,7 +1,7 @@
 /*
  * yeroth-erp-3-0-system-daemon-alert-abstract-entity.hpp
  *
- *      Author: Dr.-Ing. (ABD) Xavier Noumbissi Noundou
+ *      Author: PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou
  */
 
 #ifndef YEROTH_ERP_3_0_SYSTEM_DAEMON_ALERT_ABSTRACT_ENTITY_HPP_

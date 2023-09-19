@@ -1,7 +1,7 @@
 /*
  * yeroth-erp-3-0-definition-oo-class-operators.hpp
  *
- *      Author: Dr.-Ing. (ABD) Xavier Noumbissi Noundou
+ *      Author: PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou
  */
 
 #ifndef _YEROTH_ERP_3_0_DEFINITION_OO_CLASS_OPERATORS_HPP_

@@ -1,7 +1,7 @@
 /*
  * yeroth-erp-3-0-system-daemon-periode.hpp
  *
- *      Author: Dr.-Ing. (ABD) Xavier Noumbissi Noundou
+ *      Author: PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou
  */
 
 #ifndef YEROTH_ERP_3_0_SYSTEM_DAEMON_PERIOD_TIME_HPP_

@@ -1,7 +1,7 @@
 /*
  * yeren-erp-alert-logger.hpp
  *
- *      Author: Dr.-Ing. (ABD) Xavier Noumbissi Noundou
+ *      Author: PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou
  */
 
 #ifndef SRC_YEROTH_LOGGER_HPP_

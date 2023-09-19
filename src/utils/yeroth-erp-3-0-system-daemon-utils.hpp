@@ -1,7 +1,7 @@
 /*
  * yeroth-erp-3-0-system-daemon-utils.hpp
  *
- *      Author: Dr.-Ing. (ABD) Xavier Noumbissi Noundou
+ *      Author: PROF. DR.-ING. DIPL.-INF. Xavier Noumbissi Noundou
  */
 
 #ifndef SRC_YEROTH_UTILS_HPP_
